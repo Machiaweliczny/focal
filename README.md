@@ -12,3 +12,8 @@ then run with `python3 main.py` (port 3001)
 
 `npm start` - http://localhost:3000
 
+## Users
+
+`email1@example.com` - login without OTP
+
+`email2@example.com` - login with OTP
