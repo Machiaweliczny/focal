@@ -1,0 +1,25 @@
+body {
+  padding: 20px;
+}
+
+.formContainer {
+  width: 400px;
+  margin: auto;
+}
+
+.formContainer form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+form input {
+  margin-bottom: 5px;
+  width: 250px;
+  height: 20px;
+}
+
+form button {
+  width: 100%;
+  height: 30px;
+}
